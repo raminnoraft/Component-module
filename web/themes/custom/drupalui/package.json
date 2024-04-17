@@ -1,0 +1,53 @@
+{
+  "name": "drupalui",
+  "version": "1.0.0",
+  "description": "Bootstrap 5 subtheme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^15.0.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-eslint": "^6.0.0",
+    "gulp-if": "^3.0.0",
+    "gulp-sass": "^5.1.0",
+    "jquery": "^3.3.1",
+    "jquery-match-height": "^0.7.2",
+    "node-sass-globbing": "^0.0.23",
+    "popper.js": "^1.14.3",
+    "sass": "^1.42.1",
+    "typescript": "^5.0.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.2",
+    "del": "^3.0.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.23.2",
+    "eslint-plugin-react-hooks": "^4",
+    "gulp": "^5.0.0",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-load-plugins": "^2.0.4",
+    "gulp-postcss": "^10.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass-lint": "^1.4.0",
+    "gulp-scss-lint": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-stylelint": "^13.0.0",
+    "gulp-uglify": "^3.0.0",
+    "merge-stream": "^1.0.1",
+    "postcss-inline-svg": "^6.0.0",
+    "postcss-pxtorem": "^6.1.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^36.0.0"
+  }
+}

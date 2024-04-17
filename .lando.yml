@@ -1,0 +1,4 @@
+name: ui-druapl10
+recipe: drupal10
+config:
+  webroot: web
