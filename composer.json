@@ -17,9 +17,12 @@
     "require": {
         "composer/installers": "^2.0",
         "drupal/bootstrap5": "^3.0",
+        "drupal/components": "^3.0@beta",
         "drupal/core-composer-scaffold": "^10.0",
         "drupal/core-project-message": "^10.0",
         "drupal/core-recommended": "^10.0",
+        "drupal/twig_tweak": "^3.3",
+        "drupal/ui_patterns": "^1.8",
         "drush/drush": "^12.5"
     },
     "require-dev": {
